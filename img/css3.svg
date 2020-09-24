@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg44"
+   version="1.1"
+   viewBox="0 0 538.584 538.582"
+   height="2499.9954"
+   width="2500">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs48" />
+  <path
+     style="fill:none"
+     id="path2"
+     d="m 0,-5e-4 h 538.584 v 538.583 H 0 Z" />
+  <path
+     style="fill:#2062af"
+     id="path4"
+     d="m 405.5,467.4535 -136.21,36.676 -136.212,-36.676 -31.432,-340.525 h 335.29 z" />
+  <path
+     style="fill:#3c9cd7"
+     id="path6"
+     d="m 269.289,154.5105 v 320.367 l 0.308,0.084 110.229,-29.682 25.443,-290.769 z" />
+  <path
+     id="path8"
+     d="m 191.985,76.8985 v -20.268 h 29.571 v -22.178 h -51.749 v 62.684 h 51.749 v -20.238 z m 82.766,-20.268 h 20.674 v -22.178 h -51.754 v 22.178 c 6.924,6.924 10.535,10.238 20.549,20.252 -5.854,0 -20.549,0.021 -20.549,0.02 v 20.234 h 51.754 v -20.238 z m 73.352,0 h 20.673 V 34.4525 H 317.02 v 22.178 c 6.924,6.924 10.537,10.238 20.551,20.252 -5.852,0 -20.551,0.021 -20.551,0.02 v 20.234 h 51.757 v -20.238 z" />
+  <path
+     style="fill:#ffffff"
+     id="path10"
+     d="m 269.168,239.6555 -97.49,40.602 3.233,40.199 94.257,-40.301 100.265,-42.868 4.157,-41.122 z" />
+  <linearGradient
+     gradientTransform="matrix(1,0,0,-1,1045.93,1658.7585)"
+     y2="1419.1021"
+     x2="-825.508"
+     y1="1338.301"
+     x1="-825.508"
+     gradientUnits="userSpaceOnUse"
+     id="a">
+    <stop
+       id="stop12"
+       stop-opacity="0"
+       stop-color="#d1d3d4"
+       offset=".387" />
+    <stop
+       id="stop14"
+       stop-color="#d1d3d4"
+       offset="1" />
+  </linearGradient>
+  <path
+     style="fill:url(#a)"
+     id="path17"
+     d="m 171.677,280.2575 3.233,40.199 94.257,-40.301 v -40.5 z" />
+  <linearGradient
+     gradientTransform="matrix(1,0,0,-1,1045.93,1658.7585)"
+     y2="1462.5909"
+     x2="-724.552"
+     y1="1378.6021"
+     x1="-724.552"
+     gradientUnits="userSpaceOnUse"
+     id="b">
+    <stop
+       id="stop19"
+       stop-opacity="0"
+       stop-color="#d1d3d4"
+       offset=".387" />
+    <stop
+       id="stop21"
+       stop-color="#d1d3d4"
+       offset="1" />
+  </linearGradient>
+  <path
+     style="fill:url(#b)"
+     id="path24"
+     d="m 373.59,196.1665 -104.422,43.489 v 40.5 l 100.265,-42.868 z" />
+  <linearGradient
+     gradientTransform="matrix(1,0,0,-1,1045.93,1658.7585)"
+     y2="1302.2629"
+     x2="-680.039"
+     y1="1302.2629"
+     x1="-874.10303"
+     gradientUnits="userSpaceOnUse"
+     id="c">
+    <stop
+       id="stop26"
+       stop-color="#e8e7e5"
+       offset="0" />
+    <stop
+       id="stop28"
+       stop-color="#fff"
+       offset="1" />
+  </linearGradient>
+  <path
+     style="fill:url(#c)"
+     id="path31"
+     d="m 171.827,280.2575 3.234,40.199 144.625,0.461 -3.235,53.598 -47.59,13.398 -45.748,-11.551 -2.772,-33.268 h -42.508 l 5.545,64.225 85.945,25.412 85.479,-24.951 11.09,-127.523 z" />
+  <path
+     style="opacity:0.05"
+     id="path33"
+     d="m 269.168,280.2575 h -97.49 l 3.233,40.199 94.257,0.301 z m 0,107.528 -0.462,0.129 -45.742,-11.551 -2.772,-33.268 h -42.507 l 5.544,64.225 85.939,25.412 z" />
+  <linearGradient
+     gradientTransform="matrix(1,0,0,-1,1045.93,1658.7585)"
+     y2="1442.031"
+     x2="-672.341"
+     y1="1442.031"
+     x1="-883.03198"
+     gradientUnits="userSpaceOnUse"
+     id="d">
+    <stop
+       id="stop35"
+       stop-color="#e8e7e5"
+       offset="0" />
+    <stop
+       id="stop37"
+       stop-color="#fff"
+       offset="1" />
+  </linearGradient>
+  <path
+     style="fill:url(#d)"
+     id="path40"
+     d="M 162.898,196.1665 H 373.59 l -4.157,41.122 H 167.98 Z" />
+  <path
+     style="opacity:0.05"
+     id="path42"
+     d="m 269.168,196.1665 h -106.27 l 5.082,41.122 h 101.188 z" />
+</svg>

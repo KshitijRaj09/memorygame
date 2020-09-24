@@ -1,0 +1,106 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #e6e8f5;
+    font-family: 'Handlee', cursive;
+    font-family: 'Nova Cut', cursive;
+    justify-content: center;
+}
+
+.game-title {
+    color: #006a71;
+    font-family: 'Nova Cut', cursive, serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 10px ;
+}
+
+.game-information-container {
+    grid-column: 1/-1;
+    display: flex;
+    justify-content: space-between;
+    max-width: 700px;
+}
+
+.game-info {
+    font-family: 'Handlee', cursive;
+    color: #776d8a;
+    font-size: 1.5rem;
+    height: 30px;
+    padding: 0 25px;
+}
+
+.result{
+    font-weight: bolder;
+    visibility: hidden;
+    font-size: 2rem;
+}
+
+
+.main-container {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: center;
+    margin-bottom: 20px;
+    height: 100%;
+    perspective: 1000px;
+    
+}
+
+.game-container{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 700px;
+    justify-content: center;
+}
+
+
+.memory-card{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    transform: scale(1);
+    box-shadow: 0.5px 0.5px 3px rgba(206, 178, 178, 0.3);
+    transform-style: preserve-3d;
+    transition: transform .5s;
+    margin: 10px;
+}
+
+.memory-card:active{
+    transform: scale(0.90);
+    transition: transform .2s;
+}
+
+.memory-card.flip{
+    transform: rotateY(180deg);
+}
+
+
+.front-face,
+.back-face {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: #1C7CCC;
+  backface-visibility: hidden; 
+  border-radius: 10px;
+}
+
+.front-face {
+    transform: rotateY(180deg);
+  }
+
+@media (max-width: 700px){
+    .game-information-container{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+
+
