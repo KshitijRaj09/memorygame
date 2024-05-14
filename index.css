@@ -43,7 +43,6 @@ body {
 
 .main-container {
     display: grid;
-    grid-template-columns: repeat(4, auto);
     justify-content: center;
     margin-bottom: 20px;
     height: 100%;
